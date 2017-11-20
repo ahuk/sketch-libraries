@@ -1,5 +1,5 @@
-# sketch-libraries
-In this repo you will find worthwhile .sketch libraries for wireframing, interaction design and prototyping (are based on symbols).
+# Worthwhile Sketch libraries
+We have looked across the web to find the best libraries for wireframing, interaction design and prototyping. All included ones are based on symbols.
 
 ## Currently included
 - arrows-hanii.sketch (mainly arrows): https://dribbble.com/hanii
@@ -10,7 +10,7 @@ In this repo you will find worthwhile .sketch libraries for wireframing, interac
 
 ## How to use
 - Pull repo or fork
-- Add file as library in Sketch (File > Add Library)
+- Add desired file as library in Sketch (File > Add Library)
 
 ## Collaboration
 Feel free to reach out if you want to contribute.
